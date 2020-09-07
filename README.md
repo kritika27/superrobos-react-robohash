@@ -6,11 +6,11 @@ This App is built in ReactJS using Robohash API.I am a big fan of DC and Marvel 
 
 ## Demo
 
-Link 👉 To be added
+Link 👉 https://affectionate-almeida-56a8ef.netlify.app/
 
 ## Screenshot
 
-To be added
+![screenshot](https://user-images.githubusercontent.com/4997491/92418351-b0a80580-f184-11ea-94f0-f5313eb1fdf2.PNG)
 
 ## Installation
 
